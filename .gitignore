@@ -1,0 +1,7 @@
+# ignore ALL .log files
+*.sqlite3
+*.pyc
+
+# ignore ALL files in ANY directory named temp
+__pycache__/**
+media/**
